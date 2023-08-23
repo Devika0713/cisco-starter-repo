@@ -9,6 +9,7 @@ class App extends Component {
     return (
       <div>
         <Banner/>
+        Hello
         <Exhibit/>
       </div>
       
